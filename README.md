@@ -34,12 +34,11 @@ The analysis is designed to examine:
 
 ## Data model
 
-The model uses a central sales fact table connected to descriptive dimensions.
+The model uses a central sales fact table connected to descriptive dimensions which is an E-Commerce Order Management or Orders & Customer ERD.
 
-**Fact table:** sales transactions / sales lines  
-**Dimensions:** date, product, customer, and store
-
-Add or update this section to match the tables and relationships in your actual model.
+**Fact table:** dim _fact_sales  
+**Dimensions:** dim_date, dim_product, Dim_customer, and dim_store
+**Multi Dimensions:** dim inflation context 
 
 ## Key findings
 
