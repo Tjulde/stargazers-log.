@@ -42,8 +42,8 @@ The model uses a central sales fact table connected to descriptive dimensions wh
 
 ## Key findings
 
-1. **Basket size:** [Decrease from Basket size, with Early Basket Size 46K and Recent Basket Size 43k]
-2. **Product or category pattern:** [Verified finding]
+1. **Basket size:** [Decrease from Basket size, with **Early Basket Size 46K and Recent Basket Size 43k**]
+2. **Product or category pattern:** [**Product & Category Patterns:** Identified **FoodCo Jollof Rice & Chicken Combo and Gourmet Meet Pie** as the highest Basket Penetration of **12.65% & 12.61%** till Date.]
 3. **Customer segment pattern:** [Verified finding]
 4. **Retailer or location pattern:** [Verified finding]
 
