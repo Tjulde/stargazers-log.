@@ -42,9 +42,7 @@ The model uses a central sales fact table connected to descriptive dimensions wh
 
 ## Key findings
 
-Replace these prompts with results you have checked in your analysis. Include the time periods and comparison used.
-
-1. **Basket size:** [Verified finding, with period and comparison]
+1. **Basket size:** [Decrease from Basket size, with Early Basket Size 46K and Recent Basket Size 43k]
 2. **Product or category pattern:** [Verified finding]
 3. **Customer segment pattern:** [Verified finding]
 4. **Retailer or location pattern:** [Verified finding]
