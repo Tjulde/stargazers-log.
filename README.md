@@ -37,21 +37,24 @@ The analysis is designed to examine:
 The model uses a central sales fact table connected to descriptive dimensions which is an E-Commerce Order Management or Orders & Customer ERD.
 
 **Fact table:** dim _fact_sales  
-**Dimensions:** dim_date, dim_product, Dim_customer, and dim_store
-**Multi Dimensions:** dim inflation context 
+**Dimensions:** dim_date, dim_product, Dim_customer, dim_store, and dim inflation context 
 
 ## Key findings
 
-1. **Basket size:** Decrease from Basket size, with **Early Basket Size 46K and Recent Basket Size 43k**
+1. **Basket Volume Retraction:** Identified a**6.5% contraction** in total basket size, dropping from early period Baseline of **46,000 items down to a recent baseline of **43,000 items**, signaling a dip cross-selling efficiency. 
+
 2. **Product or category pattern:** **Product & Category Patterns:** Identified **FoodCo Jollof Rice & Chicken Combo and Gourmet Meet Pie** as the highest Basket Penetration of **12.65% & 12.61%** till Date.
+
 3. **Customer segment pattern:** Identified **FoodCo Jollof & chicken Combo and Gourmet Meat Pie** as the highest Basket Penetration of **12.65% and 12.61%**, with a **_Total Transaction of 3794 & 3784_** for both products.
+
 4. **Retailer or location pattern:** Discovered that **Loyalty Member** has the highest _customer retained_ of **1943** in total and also as the highest **Defection Signal** for the whole location.
 
 ## Recommendations
 
-Based on the insight derived from this analysis, the following strategic actions are recommended:
+Since the Basket size is shrinking, reserving the friction causing customers to buy less:
 
-- [Recommendation linked to a finding]
+- **Frictionless Cross-Selling & Tiered Thresholds**: Addressing the 3K unit decline (46k to 43k) with the introduction of **Buy more 💰🧺 to get 10% off** prompt at checkout.
+
 - [Recommendation linked to a finding]
 - [Recommendation linked to a finding]
 
