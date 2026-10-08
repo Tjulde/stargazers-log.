@@ -42,16 +42,14 @@ The model uses a central sales fact table connected to descriptive dimensions wh
 
 ## Key findings
 
-1. **Basket size:** [Decrease from Basket size, with **Early Basket Size 46K and Recent Basket Size 43k**]
-2. **Product or category pattern:** [**Product & Category Patterns:** Identified **FoodCo Jollof Rice & Chicken Combo and Gourmet Meet Pie** as the highest Basket Penetration of **12.65% & 12.61%** till Date.]
-3. **Customer segment pattern:** [Verified finding]
-4. **Retailer or location pattern:** [Verified finding]
-
-Avoid interpreting a change as caused by inflation unless your analysis supports that conclusion. Describe it as an association or pattern when causation has not been established.
+1. **Basket size:** Decrease from Basket size, with **Early Basket Size 46K and Recent Basket Size 43k**
+2. **Product or category pattern:** **Product & Category Patterns:** Identified **FoodCo Jollof Rice & Chicken Combo and Gourmet Meet Pie** as the highest Basket Penetration of **12.65% & 12.61%** till Date.
+3. **Customer segment pattern:** Identified **FoodCo Jollof & chicken Combo and Gourmet Meat Pie** as the highest Basket Penetration of **12.65% and 12.61%**, with a **_Total Transaction of 3794 & 3784_** for both products.
+4. **Retailer or location pattern:** Discovered that **Loyalty Member** has the highest _customer retained_ of **1943** in total and also as the highest **Defection Signal** for the whole location.
 
 ## Recommendations
 
-Add recommendations tied directly to your verified findings.
+Based on the insight derived from this analysis, the following strategic actions are recommended:
 
 - [Recommendation linked to a finding]
 - [Recommendation linked to a finding]
