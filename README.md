@@ -43,7 +43,7 @@ The model uses a central sales fact table connected to descriptive dimensions wh
 
 1. **Basket Volume Retraction:** Identified a**6.5% contraction** in total basket size, dropping from early period Baseline of **46,000 items down to a recent baseline of **43,000 items**, signaling a dip cross-selling efficiency. 
 
-2. **Product or category pattern:** **Product & Category Patterns:** Identified **FoodCo Jollof Rice & Chicken Combo and Gourmet Meet Pie** as the highest Basket Penetration of **12.65% & 12.61%** till Date.
+2. **Product Penetration Imbalance:** Discovered a severe concentration  risk where only **7 core Products** anchor customer baskets, while **23 Products exprienced a decline in Basket penetration**,driving basket volume contraction from 46k to 43k units.
 
 3. **Customer segment pattern:** Identified **FoodCo Jollof & chicken Combo and Gourmet Meat Pie** as the highest Basket Penetration of **12.65% and 12.61%**, with a **_Total Transaction of 3794 & 3784_** for both products.
 
@@ -51,11 +51,11 @@ The model uses a central sales fact table connected to descriptive dimensions wh
 
 ## Recommendations
 
-Since the Basket size is shrinking, reserving the friction causing customers to buy less:
+Since the Basket size is shrinking, reserving the friction causing customers to buy less, Investigating if recent Price Increases on low cost:
 
 - **Frictionless Cross-Selling & Tiered Thresholds**: Addressing the 3K unit decline (46k to 43k) with the introduction of **Buy more 💰🧺 to get 10% off** prompt at checkout.
 
-- [Recommendation linked to a finding]
+- **Price & Placement Optimization**: Review the pricing and digital shelf placement of the 23 struggling products. Run targeted multi-promotion or "buy-one-get-one-half-off" (BOGO) campaigns to clear stagnant stock and reserve the 3k unit volume drop.
 - [Recommendation linked to a finding]
 
 ## Power BI report
