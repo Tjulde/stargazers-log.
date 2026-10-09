@@ -71,7 +71,8 @@ The report is intended to include:
 
 See the folder for report previews. Open `powerbi/The_Broken_Basket.pbix` with Power BI Desktop to explore the report, if that file is included in this repository.
 
-<img width="800" height="444" alt="TheBrokenBasketVideo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/eeefee3d-5359-40d6-b577-8be392f0db99" />
+<img width="800" height="444" alt="TheBrokenBasketVideo-ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/b8f990fa-de65-4e40-8674-8d8e128cfee3" />
+
 
 ## Repository guide
 
