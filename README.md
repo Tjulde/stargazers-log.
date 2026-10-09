@@ -45,7 +45,7 @@ The model uses a central sales fact table connected to descriptive dimensions wh
 
 2. **Product Penetration Imbalance:** Discovered a severe concentration  risk where only **7 core Products** anchor customer baskets, while **23 Products exprienced a decline in Basket penetration**,driving basket volume contraction from 46k to 43k units.
 
-3. **Customer segment pattern:** Identified **FoodCo Jollof & chicken Combo and Gourmet Meat Pie** as the highest Basket Penetration of **12.65% and 12.61%**, with a **_Total Transaction of 3794 & 3784_** for both products.
+3. **Income-Bracket Value Variance:** Demographics analysis reveals a clear performance gradient across income brackets. The **High-Income customer segment anchors the highest transactional metrics (Basket size & Value)**, outperforming the medium and Low-income segments, which show progressive drops in multi-items cart adoption.
 
 4. **Retailer or location pattern:** Discovered that **Loyalty Member** has the highest _customer retained_ of **1943** in total and also as the highest **Defection Signal** for the whole location.
 
@@ -55,7 +55,8 @@ Since the Basket size is shrinking, reserving the friction causing customers to 
 
 - **Frictionless Cross-Selling & Tiered Thresholds**: Addressing the 3K unit decline (46k to 43k) with the introduction of **Buy more 💰🧺 to get 10% off** prompt at checkout.
 
-- **Price & Placement Optimization**: Review the pricing and digital shelf placement of the 23 struggling products. Run targeted multi-promotion or "buy-one-get-one-half-off" (BOGO) campaigns to clear stagnant stock and reserve the 3k unit volume drop.
+- **Tiered Incentive Structures & Affordability Adjustments For Low/Medium Brackets**: Leverage the strong performance of the High-Income bracket by introducing a premium "VIP Loyalty Tier" with exclusive perks to increase their lifetime value (LTV) even further. Counter the lower basket performance in the low- and Medium-Income brackets by introducing budget-friendly bundle kits, interest-free "Buy Now, pay later" (BNP) Financing configurations, or value-focused alternatively items.
+
 - [Recommendation linked to a finding]
 
 ## Power BI report
