@@ -41,13 +41,13 @@ The model uses a central sales fact table connected to descriptive dimensions wh
 
 ## Key findings
 
-1. **Basket Volume Retraction:** Identified a**6.5% contraction** in total basket size, dropping from early period Baseline of **46,000 items down to a recent baseline of **43,000 items**, signaling a dip cross-selling efficiency. 
+1. **Basket Volume Retraction:** Identified a **6.5% contraction** in total basket size, dropping from early period Baseline of **46,000 items down to a recent baseline of **43,000 items**, signaling a dip cross-selling efficiency. 
 
-2. **Product Penetration Imbalance:** Discovered a severe concentration  risk where only **7 core Products** anchor customer baskets, while **23 Products exprienced a decline in Basket penetration**,driving basket volume contraction from 46k to 43k units.
+2. **Product Penetration Imbalance:** Discovered a severe concentration risk where only **7 core Products** anchor customer baskets, while **23 Products experienced a decline in Basket penetration**, driving basket volume contraction from 46k to 43k units.
 
 3. **Income-Bracket Value Variance:** Demographics analysis reveals a clear performance gradient across income brackets. The **High-Income customer segment anchors the highest transactional metrics (Basket size & Value)**, outperforming the medium and Low-income segments, which show progressive drops in multi-items cart adoption.
 
-4. **Retailer or location pattern:** Discovered that **Loyalty Member** has the highest _customer retained_ of **1943** in total and also as the highest **Defection Signal** for the whole location.
+4. **Retailer & Geographic Performance Disparity:** Cross-channel analysis across retail brands revealed highly localized performance variances. while premium distributors like the **Prince Ebeano** anchored the highest revenue density, secondary channels (such as **Justrite Superstores** underperformed baseline expectations, demonstrating a clear drop-off in geographical basket size consitency.
 
 ## Recommendations
 
@@ -57,7 +57,7 @@ Since the Basket size is shrinking, reserving the friction causing customers to 
 
 - **Tiered Incentive Structures & Affordability Adjustments For Low/Medium Brackets**: Leverage the strong performance of the High-Income bracket by introducing a premium "VIP Loyalty Tier" with exclusive perks to increase their lifetime value (LTV) even further. Counter the lower basket performance in the low- and Medium-Income brackets by introducing budget-friendly bundle kits, interest-free "Buy Now, pay later" (BNP) Financing configurations, or value-focused alternatively items.
 
-- [Recommendation linked to a finding]
+- **Strategic Retailer Re-Alignment**: Prioritize high- Performing accounts like Prince Ebeano for exclusive product rollouts while launching collaborative multi-buy promotional campaigns with underperforming channels like Justrite Superstores to clear stock and reverse volume drops.
 
 ## Power BI report
 
