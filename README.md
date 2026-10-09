@@ -69,8 +69,9 @@ The report is intended to include:
 4. Retailer Opportunity
 5. Basket Exceptions
 
-See the <img width="800" height="444" alt="TheBrokenBasketVideo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/eeefee3d-5359-40d6-b577-8be392f0db99" />
- folder for report previews. Open `powerbi/The_Broken_Basket.pbix` with Power BI Desktop to explore the report, if that file is included in this repository.
+See the folder for report previews. Open `powerbi/The_Broken_Basket.pbix` with Power BI Desktop to explore the report, if that file is included in this repository.
+
+<img width="800" height="444" alt="TheBrokenBasketVideo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/eeefee3d-5359-40d6-b577-8be392f0db99" />
 
 ## Repository guide
 
