@@ -100,5 +100,5 @@ Add any required MySQL version, setup notes, or data-loading instructions here s
 
 ## Author
 
-**[Your name]**  
-[LinkedIn profile] · [Portfolio link, if available]
+**Julde Toheed**  
+www.linkedin.com/in/julde-toheed-4441a8360 
